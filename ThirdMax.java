@@ -32,6 +32,6 @@ public class ThirdMax {
                 TMax=arr[i];
             }
         }
-        System.out.println("Third Largest Element is: "+(long)TMax);
+        System.out.println("Third Largest Element is: "+(int)TMax);
     }
 }
