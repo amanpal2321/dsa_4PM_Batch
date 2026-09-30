@@ -1,0 +1,17 @@
+Array Sorting:-
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Merge Sort
+5. Quick Sort
+6. Heap Sort
+7. Count Sort
+
+## Selection Sort:- 
+Selection sort is a sorting algorithm where we select the minimum or smallest element and we place it at it's correct position
+
+~ Time Complexity  O(time) = O(n^2) /
+Space Complexity O(space) = O(1)
+
+## Insertion Sort:- 
+Insertion sort
