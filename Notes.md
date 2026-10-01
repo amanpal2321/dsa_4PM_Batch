@@ -14,4 +14,10 @@ Selection sort is a sorting algorithm where we select the minimum or smallest el
 Space Complexity O(space) = O(1)
 
 ## Insertion Sort:- 
-Insertion sort
+Insertion sort is a sorting machenism where the pivot element is inserted at its right position and sorting is achieved.
+
+~ Time Complexity  O(time) = O(n^2) /
+Space Complexity O(space) = O(1)
+
+## Bubble Sort:-
+Bubble sort
