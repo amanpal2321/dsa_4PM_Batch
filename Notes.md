@@ -20,4 +20,7 @@ Insertion sort is a sorting machenism where the pivot element is inserted at its
 Space Complexity O(space) = O(1)
 
 ## Bubble Sort:-
-Bubble sort
+Bubble sort is a sorting machenism where we compare to connected elements and if the first element is bigger element than the second element than we swap the elements and sorting is achived in this way.
+
+~ Time Complexity  O(time) = O(n^2) /
+Space Complexity O(space) = O(1)
